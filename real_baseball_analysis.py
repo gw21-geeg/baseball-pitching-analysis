@@ -23,3 +23,7 @@ plt.show()
 below_85 = df[df["active_spin_fourseam"] < 85]
 print(below_85[["entity_name", "pitch_hand", "active_spin_fourseam"]])
 print(df["active_spin_fourseam"].count())
+below_85 = df[df["active_spin_fourseam"] < 85]
+
+print("\nPitchers below 85% active spin:")
+print(len(below_85))
