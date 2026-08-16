@@ -27,3 +27,13 @@ Python analysis of baseball pitching data, including four-seam fastball active s
 ### Interpretation
 
 The data shows that pitcher handedness had very little relationship with average four-seam active spin in this dataset. Right-handed pitchers had a slightly higher average, but the difference was small.
+
+## Visualizations
+
+### Average Four-Seam Active Spin by Pitcher Hand
+
+![Average Four-Seam Active Spin by Pitcher Hand](handedness_active_spin.png)
+
+### Distribution of Four-Seam Active Spin
+
+![Distribution of Four-Seam Active Spin](active_spin_distribution.png)
